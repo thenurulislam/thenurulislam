@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nurul Islam 
 - 👀 I’m interested in Web Development project 
-- 🌱 I’m currently learning javascript 
+- 🌱 I’m currently learning MERN steak Development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
